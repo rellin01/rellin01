@@ -10,7 +10,7 @@ title: DREAM Project Site
 
 ## About Me
 
-Hello! My name is Rachel Ellinger. I am interested in exploring the intersection of computer audition, cognitive science, and ways that computational models can be used to provide insight into psychoacoustics and auditory perception, as well as to predict patient outcomes to improve diagnostic and treatment success and other real world applications.
+Hello! My name is Rachel Ellinger. I am interested in exploring the intersection of computer audition, cognitive science, and ways that computational models can be used to provide insight into psychoacoustics and auditory perception, as well as to predict patient outcomes to improve diagnostic and treatment success for management of the hearing and vestibular systems and other real world applications for integration into adaptive, user-centered technologies.
 
 I am currently pursuing my Master's in Computer Science at Tufts University. I earned my Post-Baccalaureate in Computer Science at Tufts in Fall 2025. I have so far gained experience in programming in C++, Java, SQL,  Python, including tools for data manipulation such as NumPy, SciPy, Pandas, and Scikit-Learn, having completed classes in Data Structures, Discrete Mathematics, Algorithms, Cybersecurity, Software Engineering, Machine Learning, and Database Systems.
 
