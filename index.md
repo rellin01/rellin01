@@ -8,9 +8,9 @@ title: DREAM Project Site
 
 ## About Me
 
-Hello! My name is Rachel Ellinger. 
+Hello! My name is Rachel Ellinger. I am interested in exploring the intersection of computer audition, cognitive science, and ways that computational models can be used to provide insight into psychoacoustics and auditory perception, as well as to predict patient outcomes to improve diagnostic and treatment success and other real world applications.
 
-I'm currently pursuing my Master's in Computer Science at Tufts University. I earned my Post-Baccalaureate in Computer Science at Tufts in Fall 2025. I have so far gained experience in programming in C++, Java, SQL,  Python, including tools for data manipulation such as NumPy, SciPy, Pandas, and Scikit-Learn, having completed classes in Data Structures, Discrete Mathematics, Algorithms, Cybersecurity, Software Engineering, Machine Learning, and Database Systems.
+I am currently pursuing my Master's in Computer Science at Tufts University. I earned my Post-Baccalaureate in Computer Science at Tufts in Fall 2025. I have so far gained experience in programming in C++, Java, SQL,  Python, including tools for data manipulation such as NumPy, SciPy, Pandas, and Scikit-Learn, having completed classes in Data Structures, Discrete Mathematics, Algorithms, Cybersecurity, Software Engineering, Machine Learning, and Database Systems.
 
 I completed my B.A. in Psychology at Reed College in 2016. During my studies, I designed a psychoacoustic experiment to explore how binaural cues of sound localization impact spatial release from masking under the advisement of [Dr. Frederick (Erick) Gallun](https://www.ncrar.research.va.gov/aboutus/staff/gallun.asp) and [Dr. Enriqueta Canseco-Gonzalez](https://www.reed.edu/psychology/faculty/canseco-gonzalez.html) ([thesis](https://drive.google.com/file/d/1mqauMnaoA5RxSo5GaEo7YpLDBcvswfdt/view), [publication](https://pubmed.ncbi.nlm.nih.gov/28253635/)), as well as employment as a research assistant at the National Center for Rehabilitative Auditory Research, which allowed me to be involved in a variety of projects.
 
