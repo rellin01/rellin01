@@ -3,10 +3,10 @@ layout: default
 title: DREAM Project Site
 ---
 
-<div class="toc-centered">
+<!-- <div class="toc-centered"> -->
 * TOC
 {:toc}
-</div>
+<!-- </div> -->
 
 ## About Me
 
