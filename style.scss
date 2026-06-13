@@ -151,28 +151,34 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 10px 0;
   border-bottom: 1px solid $lightGray;
 
+display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+
   @include mobile {
-    text-align: center;
+    flex-direction: column;
+	text-align: center;
   }
 }
 
 .site-avatar {
-  float: left;
+  order: 3;
   width: 100px;
-  height: 130px;
-  margin-right: 15px;
+  height: auto;
+  margin-left: 15px;
+  margin-right: 0;
 
   @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
+    order: 1;
+    margin: 0 auto 15px;
   }
 
   img {
@@ -181,13 +187,35 @@ img {
 }
 
 .site-info {
-  float: left;
+  order: 1;
 
   @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
+    order: 2;
   }
+}
+
+nav {
+    order: 2;
+	font-family: $helveticaNeue;
+	font-size: 18px;
+
+	@include mobile {
+		order: 3;
+		margin-top: 9px;
+		font-size: 16px;
+	}
+
+	a {
+		margin-left: 20px;
+		color: $darkGray;
+		font-weight: 300;
+		letter-spacing: 1px;
+
+		@include mobile {
+			margin: 0 10px;
+			color: $blue;
+		}
+	}
 }
 
 .site-name {
@@ -207,33 +235,6 @@ img {
 
   @include mobile {
     margin: 3px 0;
-  }
-}
-
-nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
-
-  a {
-    margin-left: 20px;
-    color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
-
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
   }
 }
 
