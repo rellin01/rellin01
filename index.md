@@ -22,7 +22,7 @@ I earned my Clinical Doctorate of Audiology (Au.D.) at Northwestern University i
 
 ## About My Project
 
-The primary goal of this project is to explore how performance changes for timing based language retrieval tasks when moving from models that focus on global audio-text embeddings to temporal-enhanced models and hybrid approaches. To achieve this, I will initially work to gain skills in audio signal processing and deep learning with multi-modal AI and application of common deep learning evaluation metrics for data analysis. Additionally this project will involve content review and practice coding exercises, including a literature review and reproduction of [Detection and Classification of Acoustic Scenes and Events (DCASE) challenges](https://dcase.community/).
+The primary goal of this project is to explore how performance changes for timing based language retrieval tasks when moving from models that focus on global audio-text embeddings to temporal-enhanced models and hybrid approaches. To achieve this, I will initially work to gain skills in audio signal processing and deep learning with multi-modal AI and application of common deep learning evaluation metrics for data analysis. Additionally this project will involve content review and practice coding exercises, including a literature review and reproduction of Detection and Classification of Acoustic Scenes and Events (DCASE) challenges.
 
 
 [My Final Report](files/finalreport.pdf)
